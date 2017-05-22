@@ -1,0 +1,1 @@
+from bytesinsert.modify_bytecode import insert_code
