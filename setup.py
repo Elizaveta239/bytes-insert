@@ -8,7 +8,7 @@ setup(
     name='bytesinsert',
     version='0.1.0',
     packages=['bytesinsert', 'bytesinsert.tests'],
-    url='https://github.com/Elizaveta239/bytes-insert.git',
+    url='https://github.com/Elizaveta239/bytes-insert',
     license='MIT',
     author='Elizaveta Shashkova',
     author_email='elizabeth.shashkova@gmail.com',
