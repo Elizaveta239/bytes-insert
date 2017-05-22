@@ -35,3 +35,12 @@ if success:
     exec(result)
 
 ```
+
+The resulting output will be:
+```
+1
+2
+3
+```
+
+The `insert_code` function inserted code from the function `new_code` into the function `hello` by updating its bytecode.
