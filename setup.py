@@ -6,7 +6,7 @@ if not (sys.version_info[0] == 3 and sys.version_info[1] >= 6):
 
 setup(
     name='bytesinsert',
-    version='0.1.0',
+    version='0.2.0',
     packages=['bytesinsert', 'bytesinsert.tests'],
     url='https://github.com/Elizaveta239/bytes-insert',
     license='MIT',
