@@ -48,3 +48,10 @@ The resulting output will be:
 
 The ``insert_code`` function inserted code from the function
 ``new_code`` into the function ``hello`` by updating its bytecode.
+
+Install
+-------
+
+This library can be easily installed with pip:
+
+``pip install bytesinsert``
